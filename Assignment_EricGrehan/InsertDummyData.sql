@@ -1,0 +1,2 @@
+﻿INSERT INTO Student (StudentId, FirstName, SurName, Email,Phone,addressLine1,addrtessLine2,city,county,level,course)
+VALUES ('6', 'Brian', 'myPress','test@yahoo.com','012345678','Street1','Stree2','Dublin','Dublin','Postgraduate','science');

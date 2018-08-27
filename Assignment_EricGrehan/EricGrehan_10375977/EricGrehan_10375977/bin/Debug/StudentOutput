@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Student>
+  <Student>
+    <FirstName>brian</FirstName>
+    <SurName>carrol</SurName>
+    <StudentId>22</StudentId>
+    <Email>@@@</Email>
+    <Phone>12345</Phone>
+    <addressLine1>fsdfsdf</addressLine1>
+    <addressLine2 />
+    <city>dublin 11</city>
+    <county>Dublin</county>
+    <level>Undergraduate</level>
+    <course>Philosophy</course>
+  </Student>
+</Student>
